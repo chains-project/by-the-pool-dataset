@@ -1,0 +1,11 @@
+version=0.2.1
+ok=3
+ko=2
+ignored=0
+okFiles="unexepack-0.2.1.pom unexepack-0.2.1.jar unexepack-0.2.1-sources.jar"
+koFiles="unexepack-0.2.1-bin.tar.gz unexepack-0.2.1-bin.zip"
+ignoredFiles=""
+reference_java_version="17 (from MANIFEST.MF Build-Jdk-Spec)"
+reference_os_name="Unix (from pom.properties newline)"
+# diffoscope target/reference/io.github.albertus82/unexepack-0.2.1-bin.tar.gz target/unexepack-0.2.1-bin.tar.gz
+# diffoscope target/reference/io.github.albertus82/unexepack-0.2.1-bin.zip target/unexepack-0.2.1-bin.zip
