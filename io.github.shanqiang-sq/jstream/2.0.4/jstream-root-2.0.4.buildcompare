@@ -1,0 +1,9 @@
+version=2.0.4
+ok=3
+ko=0
+ignored=0
+okFiles="jstream-shaded-jar-2.0.4.pom jstream-shaded-jar-2.0.4.jar jstream-shaded-jar-2.0.4-sources.jar"
+koFiles=""
+ignoredFiles=""
+reference_java_version="1.8 (from MANIFEST.MF Build-Jdk-Spec)"
+reference_os_name="Unix (from pom.properties newline)"

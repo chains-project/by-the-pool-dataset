@@ -39,7 +39,7 @@ outputs.1.0.checksums.sha512=bab563bb6152af024e627bfbc1f712609fffd3c248deba4addc
 outputs.1.1.groupId=io.smallrye
 outputs.1.1.filename=jandex-test-data-3.1.0.jar
 outputs.1.1.length=71167
-outputs.1.1.checksums.sha512=3315785dd4d7d611486947c99ccefd5428d18377deed34f50aaf51983f4a47c8d18e910fea1c114bf555b8e2b0c7937f316708f972ab3a8247ac0c77ad18fda3
+outputs.1.1.checksums.sha512=bbbac1332fd847375d868e7a77144cdb9bcae4e28d124189428c4b0cf21fbc2feb974f5643c59ce3d6a9807b4740237f06501d719c3c152140552630f2b7bfec
 
 outputs.1.2.groupId=io.smallrye
 outputs.1.2.filename=jandex-test-data-3.1.0-sources.jar

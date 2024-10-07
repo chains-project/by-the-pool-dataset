@@ -39,7 +39,7 @@ outputs.2.checksums.sha512=244e5e84d634dd8c49bae579b281a23f693e129463de81ef837e7
 outputs.3.groupId=io.github.albertus82
 outputs.3.filename=unexepack-0.2.1-bin.zip
 outputs.3.length=419311
-outputs.3.checksums.sha512=e15ba137a877b776de15a9718baa3c400674ca500e72546a64660440cd569decc36133dc1965953d9c190114fb9367aa69c03034161e5b8cdb3c352cec282d1c
+outputs.3.checksums.sha512=09fe499d121013782e660870c4534819a28bfd111063bcab15e97965c57750b5c99b597539b853790e4e41b9f2b8c0d810ab4c3aa8df49e8f2c093c2d77ebd30
 
 outputs.4.groupId=io.github.albertus82
 outputs.4.filename=unexepack-0.2.1-sources.jar
