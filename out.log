@@ -1,116 +1,1827 @@
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.4
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.4:ok=40:ko=0
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.8
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.8:ok=34:ko=6
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.0
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.0:ok=34:ko=6
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.4.10
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.4.10:ok=33:ko=9
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.7.2
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.7.2:ok=62:ko=4
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.8
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.8:ok=39:ko=1
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.4
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.4:ok=33:ko=7
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.0
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.0:ok=33:ko=7
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.6
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.6.6:ok=39:ko=1
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.6
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.5.6:ok=33:ko=7
+Starting project org.apache.jackrabbit.vault:jackrabbit-filevault:3.4.8
+exit_code=0
+org.apache.jackrabbit.vault:jackrabbit-filevault:3.4.8:ok=33:ko=9
+Starting project org.apache.activemq:artemis-pom:2.33.0
+exit_code=0
+org.apache.activemq:artemis-pom:2.33.0:ok=104:ko=4
+Starting project org.apache.activemq:artemis-pom:2.31.1
+exit_code=0
+org.apache.activemq:artemis-pom:2.31.1:ok=103:ko=3
+Starting project org.apache.activemq:artemis-pom:2.30.0
+exit_code=0
+org.apache.activemq:artemis-pom:2.30.0:ok=103:ko=3
+Starting project org.apache.activemq:artemis-pom:2.28.0
+exit_code=0
+org.apache.activemq:artemis-pom:2.28.0:ok=97:ko=8
+Starting project org.apache.activemq:artemis-pom:2.32.0
+exit_code=0
+org.apache.activemq:artemis-pom:2.32.0:ok=100:ko=8
+Starting project org.apache.activemq:artemis-pom:2.27.1
+exit_code=0
+org.apache.activemq:artemis-pom:2.27.1:ok=92:ko=8
+Starting project org.apache.activemq:artemis-pom:2.29.0
+exit_code=0
+org.apache.activemq:artemis-pom:2.29.0:ok=105:ko=3
+Starting project org.apache.activemq:activemq-parent:5.18.0
+exit_code=0
+org.apache.activemq:activemq-parent:5.18.0:ok=87:ko=8
+Starting project org.apache.activemq:activemq-parent:5.17.4
+exit_code=0
+org.apache.activemq:activemq-parent:5.17.4:ok=110:ko=16
+Starting project org.apache.activemq:activemq-parent:5.17.0
+exit_code=0
+org.apache.activemq:activemq-parent:5.17.0:ok=110:ko=19
+Starting project org.apache.activemq:activemq-parent:5.16.4
+exit_code=0
+org.apache.activemq:activemq-parent:5.16.4:ok=106:ko=29
+Starting project org.apache.activemq:activemq-parent:5.17.1
+exit_code=0
+org.apache.activemq:activemq-parent:5.17.1:ok=107:ko=19
+Starting project org.apache.activemq:activemq-parent:5.17.3
+exit_code=0
+org.apache.activemq:activemq-parent:5.17.3:ok=110:ko=16
+Starting project org.apache.activemq:activemq-parent:5.16.5
+exit_code=0
+org.apache.activemq:activemq-parent:5.16.5:ok=106:ko=29
+Starting project com.cognite.units:units-catalog:0.1.8
+exit_code=0
+com.cognite.units:units-catalog:0.1.8:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.14
+exit_code=0
+com.cognite.units:units-catalog:0.1.14:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.10
+exit_code=0
+com.cognite.units:units-catalog:0.1.10:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.13
+exit_code=0
+com.cognite.units:units-catalog:0.1.13:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.3
+exit_code=0
+com.cognite.units:units-catalog:0.1.3:ok=1:ko=2
+Starting project com.cognite.units:units-catalog:0.1.6
+exit_code=0
+com.cognite.units:units-catalog:0.1.6:ok=1:ko=2
+Starting project com.cognite.units:units-catalog:0.1.4
+exit_code=0
+com.cognite.units:units-catalog:0.1.4:ok=1:ko=2
+Starting project com.cognite.units:units-catalog:0.1.7
+exit_code=0
+com.cognite.units:units-catalog:0.1.7:ok=1:ko=2
+Starting project com.cognite.units:units-catalog:0.1.9
+exit_code=0
+com.cognite.units:units-catalog:0.1.9:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.11
+exit_code=0
+com.cognite.units:units-catalog:0.1.11:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.12
+exit_code=0
+com.cognite.units:units-catalog:0.1.12:ok=3:ko=0
+Starting project com.cognite.units:units-catalog:0.1.5
+exit_code=0
+com.cognite.units:units-catalog:0.1.5:ok=1:ko=2
+Starting project org.mybatis.spring.boot:mybatis-spring-boot:3.0.2
+exit_code=0
+org.mybatis.spring.boot:mybatis-spring-boot:3.0.2:ok=9:ko=2
+Starting project org.mybatis.spring.boot:mybatis-spring-boot:2.3.0
+exit_code=0
+org.mybatis.spring.boot:mybatis-spring-boot:2.3.0:ok=7:ko=4
+Starting project org.apache.struts:struts2-parent:6.0.0
+exit_code=0
+org.apache.struts:struts2-parent:6.0.0:ok=38:ko=63
+Starting project org.apache.struts:struts2-parent:6.1.2.1
+exit_code=0
+org.apache.struts:struts2-parent:6.1.2.1:ok=38:ko=63
+Starting project org.apache.struts:struts2-parent:6.2.0
+exit_code=0
+org.apache.struts:struts2-parent:6.2.0:ok=39:ko=65
+Starting project org.apache.struts:struts2-parent:2.5.31
+exit_code=0
+org.apache.struts:struts2-parent:2.5.31:ok=37:ko=58
+Starting project org.apache.struts:struts2-parent:2.5.28.3
+exit_code=1
+Starting project org.apache.struts:struts2-parent:2.5.28.1
+exit_code=1
+Starting project org.apache.struts:struts2-parent:6.3.0.2
+exit_code=0
+org.apache.struts:struts2-parent:6.3.0.2:ok=40:ko=67
+Starting project org.apache.struts:struts2-parent:6.1.1
+exit_code=0
+org.apache.struts:struts2-parent:6.1.1:ok=38:ko=63
+Starting project org.apache.struts:struts2-parent:2.5.33
+exit_code=0
+org.apache.struts:struts2-parent:2.5.33:ok=37:ko=58
+Starting project org.apache.struts:struts2-parent:6.6.0
+exit_code=0
+org.apache.struts:struts2-parent:6.6.0:ok=106:ko=1
+Starting project org.apache.struts:struts2-parent:6.4.0
+exit_code=0
+org.apache.struts:struts2-parent:6.4.0:ok=106:ko=1
+Starting project org.apache.struts:struts2-parent:2.5.30
+exit_code=1
+Starting project org.apache.struts:struts2-parent:2.5.28
+exit_code=1
+Starting project org.apache.struts:struts2-parent:2.5.32
+exit_code=0
+org.apache.struts:struts2-parent:2.5.32:ok=37:ko=58
+Starting project org.apache.struts:struts2-parent:2.5.29
+exit_code=1
+Starting project org.apache.struts:struts2-parent:6.3.0
+exit_code=0
+org.apache.struts:struts2-parent:6.3.0:ok=40:ko=67
+Starting project org.apache.struts:struts2-parent:6.0.3
+exit_code=0
+org.apache.struts:struts2-parent:6.0.3:ok=38:ko=63
+Starting project org.apache.struts:struts2-parent:2.5.26
+exit_code=1
+Starting project org.apache.struts:struts2-parent:6.1.2.2
+exit_code=0
+org.apache.struts:struts2-parent:6.1.2.2:ok=38:ko=63
+Starting project org.apache.struts:struts2-parent:6.1.2
+exit_code=0
+org.apache.struts:struts2-parent:6.1.2:ok=38:ko=63
+Starting project org.apache.struts:struts2-parent:2.5.27
+exit_code=1
+Starting project org.apache.struts:struts2-parent:2.5.28.2
+exit_code=1
+Starting project org.apache.struts:struts2-parent:6.3.0.1
+exit_code=0
+org.apache.struts:struts2-parent:6.3.0.1:ok=40:ko=67
+Starting project org.apache.isis:isis-parent:2.0.0-M7
+exit_code=0
+org.apache.isis:isis-parent:2.0.0-M7:ok=360:ko=257
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.25.2
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.25.2:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.23
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.23:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.11
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.11:ok=42:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.20
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.20:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.23.3
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.23.3:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.15
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.15:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.18
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.18:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.13
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.13:ok=48:ko=0
 Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.3
 exit_code=0
 us.abstracta.jmeter:jmeter-java-dsl-parent:1.3:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.29
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.29:ok=51:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.23.1
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.23.1:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.4
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.4:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.0.1
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.28.1
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.28.1:ok=51:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.0.2
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.0.2:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.8
+exit_code=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.12.1
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.12.1:ok=42:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.8.1
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.8.1:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.9
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.9:ok=36:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.12
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.12:ok=42:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.1
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.1:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.2
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.2:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.25
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.25:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.25.1
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.25.1:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.27
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.27:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.5
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.5:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.26
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.26:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.19
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.19:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.28
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.28:ok=51:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.25.3
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.25.3:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.24
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.24:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.22
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.22:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.14
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.14:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.21
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.21:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.6
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.6:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.23.2
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.23.2:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.17
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.17:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.16
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.16:ok=48:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.7
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.7:ok=32:ko=0
+Starting project us.abstracta.jmeter:jmeter-java-dsl-parent:1.10
+exit_code=0
+us.abstracta.jmeter:jmeter-java-dsl-parent:1.10:ok=42:ko=0
+Starting project de.unentscheidbar:migratedb:1.1.0
+exit_code=1
+de.unentscheidbar:migratedb:1.1.0:ok=2:ko=0
+Starting project de.unentscheidbar:migratedb:0.2.0
+exit_code=1
+de.unentscheidbar:migratedb:0.2.0:ok=2:ko=0
+Starting project de.unentscheidbar:migratedb:0.1.0
+exit_code=1
+de.unentscheidbar:migratedb:0.1.0:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.17.1
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.17.1:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.16.2
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.16.2:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.17.0
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.17.0:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.16.0
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.16.0:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.17.0-rc1
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.17.0-rc1:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.16.1
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.16.1:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.18.0-rc1
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.18.0-rc1:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.18.0
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.18.0:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-bom:2.17.2
+exit_code=0
+com.fasterxml.jackson:jackson-bom:2.17.2:ok=2:ko=0
+Starting project com.fasterxml.jackson:jackson-parent:2.16
+exit_code=0
+com.fasterxml.jackson:jackson-parent:2.16:ok=1:ko=0
+Starting project com.fasterxml.jackson:jackson-parent:2.17-rc1
+exit_code=0
+com.fasterxml.jackson:jackson-parent:2.17-rc1:ok=1:ko=0
+Starting project com.fasterxml.jackson:jackson-parent:2.17
+exit_code=0
+com.fasterxml.jackson:jackson-parent:2.17:ok=1:ko=0
+Starting project com.fasterxml.jackson:jackson-parent:2.18-rc1
+exit_code=0
+com.fasterxml.jackson:jackson-parent:2.18-rc1:ok=1:ko=0
+Starting project com.fasterxml.jackson:jackson-parent:2.18
+exit_code=0
+com.fasterxml.jackson:jackson-parent:2.18:ok=1:ko=0
+Starting project org.mybatis.generator:mybatis-generator:1.4.2
+exit_code=0
+org.mybatis.generator:mybatis-generator:1.4.2:ok=7:ko=2
+Starting project net.sf.michael-o:michael-o-parent:16
+exit_code=0
+net.sf.michael-o:michael-o-parent:16:ok=3:ko=0
+Starting project net.sf.michael-o:michael-o-parent:17
+exit_code=0
+net.sf.michael-o:michael-o-parent:17:ok=3:ko=0
+Starting project org.eclipse.jkube:jkube:1.1.1
+exit_code=0
+org.eclipse.jkube:jkube:1.1.1:ok=107:ko=0
+Starting project org.eclipse.jkube:jkube:1.2.0
+exit_code=0
+org.eclipse.jkube:jkube:1.2.0:ok=107:ko=0
+Starting project org.eclipse.jkube:jkube:1.8.0
+exit_code=0
+org.eclipse.jkube:jkube:1.8.0:ok=113:ko=0
+Starting project org.eclipse.jkube:jkube:1.9.0
+exit_code=0
+org.eclipse.jkube:jkube:1.9.0:ok=108:ko=0
+Starting project org.eclipse.jkube:jkube:1.7.0
+exit_code=0
+org.eclipse.jkube:jkube:1.7.0:ok=113:ko=0
+Starting project org.eclipse.jkube:jkube:1.12.0
+exit_code=0
+org.eclipse.jkube:jkube:1.12.0:ok=117:ko=0
+Starting project org.eclipse.jkube:jkube:1.14.0
+exit_code=0
+org.eclipse.jkube:jkube:1.14.0:ok=84:ko=36
+Starting project org.eclipse.jkube:jkube:1.4.0
+exit_code=0
+org.eclipse.jkube:jkube:1.4.0:ok=107:ko=0
+Starting project org.eclipse.jkube:jkube:1.1.0
+exit_code=0
+org.eclipse.jkube:jkube:1.1.0:ok=107:ko=0
+Starting project org.eclipse.jkube:jkube:1.6.0
+exit_code=0
+org.eclipse.jkube:jkube:1.6.0:ok=113:ko=0
+Starting project org.eclipse.jkube:jkube:1.13.0
+exit_code=0
+org.eclipse.jkube:jkube:1.13.0:ok=117:ko=0
+Starting project org.eclipse.jkube:jkube:1.11.0
+exit_code=0
+org.eclipse.jkube:jkube:1.11.0:ok=117:ko=0
+Starting project org.eclipse.jkube:jkube:1.10.1
+exit_code=0
+org.eclipse.jkube:jkube:1.10.1:ok=117:ko=0
+Starting project org.eclipse.jkube:jkube:1.15.0
+exit_code=0
+org.eclipse.jkube:jkube:1.15.0:ok=84:ko=36
+Starting project org.eclipse.jkube:jkube:1.5.1
+exit_code=0
+org.eclipse.jkube:jkube:1.5.1:ok=118:ko=0
+Starting project org.eclipse.jkube:jkube:1.3.0
+exit_code=0
+org.eclipse.jkube:jkube:1.3.0:ok=107:ko=0
+Starting project org.eclipse.jkube:jkube:1.16.0
+exit_code=0
+org.eclipse.jkube:jkube:1.16.0:ok=86:ko=37
+Starting project org.eclipse.jkube:jkube:1.13.1
+exit_code=0
+org.eclipse.jkube:jkube:1.13.1:ok=117:ko=0
+Starting project org.eclipse.jkube:jkube:1.16.1
+exit_code=0
+org.eclipse.jkube:jkube:1.16.1:ok=86:ko=37
+Starting project org.eclipse.jkube:jkube:1.5.0
+exit_code=0
+org.eclipse.jkube:jkube:1.5.0:ok=118:ko=0
+Starting project org.eclipse.jkube:jkube:1.10.0
+exit_code=0
+org.eclipse.jkube:jkube:1.10.0:ok=117:ko=0
+Starting project org.eclipse.jkube:jkube:1.9.1
+exit_code=0
+org.eclipse.jkube:jkube:1.9.1:ok=108:ko=0
 Starting project io.github.zlika:reproducible-build-maven-plugin:0.17
 exit_code=0
 io.github.zlika:reproducible-build-maven-plugin:0.17:ok=4:ko=0
+Starting project io.github.zlika:reproducible-build-maven-plugin:0.16
+exit_code=0
+io.github.zlika:reproducible-build-maven-plugin:0.16:ok=4:ko=0
+Starting project com.github.adangel.liquibase.ext:liquibase-percona:2.0.0
+exit_code=0
+com.github.adangel.liquibase.ext:liquibase-percona:2.0.0:ok=3:ko=0
+Starting project org.chabala.brick:brick-control-lab:0.2.1
+exit_code=0
+org.chabala.brick:brick-control-lab:0.2.1:ok=4:ko=0
+Starting project org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.4.1
+exit_code=0
+org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.4.1:ok=2:ko=1
+Starting project org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.4.0
+exit_code=0
+org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.4.0:ok=3:ko=0
+Starting project org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.5.0
+exit_code=0
+org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.5.0:ok=3:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.3
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.3:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.5
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.5:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.8
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.8:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.9
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.9:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.0.1
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.0.1:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.2
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.2:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.6
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.6:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.10
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.10:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.7
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.7:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.11
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.11:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.4
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.4:ok=11:ko=0
+Starting project org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.1
+exit_code=0
+org.openapitools.openapidiff:openapi-diff-parent:2.1.0-beta.1:ok=11:ko=0
 Starting project io.smallrye:jandex-parent:3.1.0
 exit_code=0
 io.smallrye:jandex-parent:3.1.0:ok=9:ko=2
+Starting project com.github.veithen.checkt:checkt:0.1.0
+exit_code=0
+com.github.veithen.checkt:checkt:0.1.0:ok=10:ko=0
+Starting project com.github.veithen:parent:43
+exit_code=0
+com.github.veithen:parent:43:ok=1:ko=0
+Starting project com.github.veithen:parent:52
+exit_code=0
+com.github.veithen:parent:52:ok=1:ko=0
+Starting project com.github.veithen:parent:44
+exit_code=0
+com.github.veithen:parent:44:ok=1:ko=0
+Starting project com.github.veithen:parent:39
+exit_code=0
+com.github.veithen:parent:39:ok=1:ko=0
+Starting project com.github.veithen:parent:45
+exit_code=0
+com.github.veithen:parent:45:ok=1:ko=0
+Starting project com.github.veithen:parent:49
+exit_code=0
+com.github.veithen:parent:49:ok=1:ko=0
+Starting project com.github.veithen:parent:51
+exit_code=0
+com.github.veithen:parent:51:ok=1:ko=0
+Starting project com.github.veithen:parent:42
+exit_code=0
+com.github.veithen:parent:42:ok=1:ko=0
+Starting project com.github.veithen:parent:38
+exit_code=0
+com.github.veithen:parent:38:ok=1:ko=0
+Starting project com.github.veithen:parent:37
+exit_code=0
+com.github.veithen:parent:37:ok=1:ko=1
+Starting project com.github.veithen:parent:40
+exit_code=0
+com.github.veithen:parent:40:ok=1:ko=0
+Starting project com.github.veithen:parent:47
+exit_code=0
+com.github.veithen:parent:47:ok=1:ko=0
+Starting project com.github.veithen:parent:48
+exit_code=0
+com.github.veithen:parent:48:ok=1:ko=0
+Starting project com.github.veithen:parent:41
+exit_code=0
+com.github.veithen:parent:41:ok=1:ko=0
+Starting project com.github.veithen:parent:46
+exit_code=0
+com.github.veithen:parent:46:ok=1:ko=0
+Starting project com.github.veithen:parent:50
+exit_code=0
+com.github.veithen:parent:50:ok=1:ko=0
+Starting project com.github.veithen:jrel:0.1.0
+exit_code=0
+com.github.veithen:jrel:0.1.0:ok=4:ko=0
+Starting project org.eclipse.transformer:org.eclipse.transformer.parent:0.5.0
+exit_code=0
+org.eclipse.transformer:org.eclipse.transformer.parent:0.5.0:ok=0:ko=3
+Starting project org.eclipse.transformer:org.eclipse.transformer.parent:0.2.0
+exit_code=0
+org.eclipse.transformer:org.eclipse.transformer.parent:0.2.0:ok=11:ko=0
+Starting project org.eclipse.transformer:org.eclipse.transformer.parent:0.4.0
+exit_code=0
+org.eclipse.transformer:org.eclipse.transformer.parent:0.4.0:ok=14:ko=0
 Starting project io.dwpbank.movewp3:microservice-security-autoconfiguration:3.0.1
 exit_code=0
 io.dwpbank.movewp3:microservice-security-autoconfiguration:3.0.1:ok=1:ko=2
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.16
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.16:ok=64:ko=8
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.15
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.15:ok=64:ko=8
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.26-beta
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.26-beta:ok=72:ko=0
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.22.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.22.0:ok=67:ko=2
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.25
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.25:ok=71:ko=1
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.21
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.21:ok=71:ko=1
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.17
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.17:ok=64:ko=8
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.24
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.24:ok=71:ko=1
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.18
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.18:ok=64:ko=8
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.20
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.20:ok=64:ko=8
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.27-beta
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.27-beta:ok=67:ko=2
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.23.0-beta
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.23.0-beta:ok=67:ko=2
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.22
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.22:ok=71:ko=1
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.23
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.23:ok=71:ko=1
+Starting project org.apache.jackrabbit:jackrabbit-parent:2.21.19
+exit_code=0
+org.apache.jackrabbit:jackrabbit-parent:2.21.19:ok=64:ko=8
+Starting project org.apache.jackrabbit:jackrabbit-oak:1.64.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-oak:1.64.0:ok=143:ko=7
+Starting project org.apache.jackrabbit:jackrabbit-oak:1.68.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-oak:1.68.0:ok=141:ko=9
+Starting project org.apache.jackrabbit:jackrabbit-oak:1.66.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-oak:1.66.0:ok=140:ko=10
+Starting project org.apache.jackrabbit:jackrabbit-oak:1.60.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-oak:1.60.0:ok=131:ko=23
+Starting project org.apache.jackrabbit:jackrabbit-oak:1.70.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-oak:1.70.0:ok=139:ko=11
+Starting project org.apache.jackrabbit:jackrabbit-oak:1.62.0
+exit_code=0
+org.apache.jackrabbit:jackrabbit-oak:1.62.0:ok=134:ko=20
+Starting project org.apache.jackrabbit:filevault-package-maven-plugin:1.3.2
+exit_code=0
+org.apache.jackrabbit:filevault-package-maven-plugin:1.3.2:ok=4:ko=0
+Starting project org.apache.jackrabbit:filevault-package-maven-plugin:1.2.2
+exit_code=0
+org.apache.jackrabbit:filevault-package-maven-plugin:1.2.2:ok=4:ko=0
+Starting project org.apache.jackrabbit:filevault-package-maven-plugin:1.1.8
+exit_code=0
+org.apache.jackrabbit:filevault-package-maven-plugin:1.1.8:ok=4:ko=0
+Starting project org.apache.jackrabbit:filevault-package-maven-plugin:1.3.0
+exit_code=0
+org.apache.jackrabbit:filevault-package-maven-plugin:1.3.0:ok=4:ko=0
+Starting project org.apache.jackrabbit:filevault-package-maven-plugin:1.1.4
+exit_code=0
+org.apache.jackrabbit:filevault-package-maven-plugin:1.1.4:ok=4:ko=0
+Starting project org.apache.jackrabbit:filevault-package-maven-plugin:1.1.6
+exit_code=0
+org.apache.jackrabbit:filevault-package-maven-plugin:1.1.6:ok=4:ko=0
+Starting project ch.qos.logback.db:logback-parent-db:1.2.11.1
+exit_code=0
+ch.qos.logback.db:logback-parent-db:1.2.11.1:ok=4:ko=11
+Starting project world.convex:convex:0.7.8
+exit_code=1
+world.convex:convex:0.7.8:ok=4:ko=0
+Starting project world.convex:convex:0.7.2
+exit_code=1
+Starting project world.convex:convex:0.7.11
+exit_code=1
+world.convex:convex:0.7.11:ok=3:ko=1
+Starting project world.convex:convex:0.7.4
+exit_code=1
+Starting project world.convex:convex:0.7.3
+exit_code=1
+Starting project world.convex:convex:0.7.5
+exit_code=1
+Starting project world.convex:convex:0.7.0-rc2
+exit_code=1
+Starting project org.apache.synapse:Apache-Synapse:3.0.2
+exit_code=0
+org.apache.synapse:Apache-Synapse:3.0.2:ok=25:ko=31
+Starting project net.jsign:jsign:5.0
+exit_code=0
+net.jsign:jsign:5.0:ok=19:ko=1
+Starting project net.jsign:jsign:6.0
+exit_code=0
+net.jsign:jsign:6.0:ok=19:ko=1
+Starting project net.jsign:jsign:4.2
+exit_code=0
+net.jsign:jsign:4.2:ok=17:ko=3
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.1
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.1:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.16.2
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.16.2:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.0
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.0:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.16.0
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.16.0:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.0-rc1
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.0-rc1:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.16.1
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.16.1:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.18.0-rc1
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.18.0-rc1:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.18.0
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.18.0:ok=17:ko=0
+Starting project com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.2
+exit_code=0
+com.fasterxml.jackson.dataformat:jackson-dataformats-text:2.17.2:ok=17:ko=0
+Starting project org.apache.karaf:karaf:4.2.13
+exit_code=0
+org.apache.karaf:karaf:4.2.13:ok=464:ko=104
+Starting project org.apache.karaf:karaf:4.4.3
+exit_code=0
+org.apache.karaf:karaf:4.4.3:ok=509:ko=96
+Starting project org.apache.karaf:karaf:4.4.0
+exit_code=0
+org.apache.karaf:karaf:4.4.0:ok=491:ko=96
+Starting project org.apache.karaf:karaf:4.3.6
+exit_code=1
+org.apache.karaf:karaf:4.3.6:ok=1:ko=2
+Starting project org.apache.karaf:decanter:2.10.0
+exit_code=0
+org.apache.karaf:decanter:2.10.0:ok=262:ko=1
+Starting project org.apache.karaf:decanter:2.9.0
+exit_code=0
+org.apache.karaf:decanter:2.9.0:ok=261:ko=2
+Starting project org.apache.maven.resolver:maven-resolver:1.4.2
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.4.2:ok=23:ko=10
+Starting project org.apache.maven.resolver:maven-resolver:1.8.0
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.8.0:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver:1.7.0
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.7.0:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver:1.6.1
+exit_code=1
+Starting project org.apache.maven.resolver:maven-resolver:1.6.3
+exit_code=1
+Starting project org.apache.maven.resolver:maven-resolver:1.7.2
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.7.2:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver:1.8.1
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.8.1:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver:1.8.2
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.8.2:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver:1.6.2
+exit_code=1
+Starting project org.apache.maven.resolver:maven-resolver:1.7.1
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.7.1:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver:1.7.3
+exit_code=0
+org.apache.maven.resolver:maven-resolver:1.7.3:ok=42:ko=0
+Starting project org.apache.maven.resolver:maven-resolver-ant-tasks:1.4.0
+exit_code=0
+org.apache.maven.resolver:maven-resolver-ant-tasks:1.4.0:ok=5:ko=0
+Starting project org.apache.maven.resolver:maven-resolver-ant-tasks:1.5.1
+exit_code=0
+org.apache.maven.resolver:maven-resolver-ant-tasks:1.5.1:ok=7:ko=0
+Starting project org.apache.maven.resolver:maven-resolver-ant-tasks:1.2.1
+exit_code=0
+org.apache.maven.resolver:maven-resolver-ant-tasks:1.2.1:ok=5:ko=0
+Starting project org.apache.maven.resolver:maven-resolver-ant-tasks:1.3.0
+exit_code=0
+org.apache.maven.resolver:maven-resolver-ant-tasks:1.3.0:ok=5:ko=0
+Starting project org.apache.maven.resolver:maven-resolver-ant-tasks:1.3.1
+exit_code=0
+org.apache.maven.resolver:maven-resolver-ant-tasks:1.3.1:ok=5:ko=0
+Starting project org.apache.maven.resolver:maven-resolver-ant-tasks:1.5.0
+exit_code=0
+org.apache.maven.resolver:maven-resolver-ant-tasks:1.5.0:ok=7:ko=0
+Starting project org.infinispan.protostream:protostream-aggregator:5.0.7.Final
+exit_code=0
+org.infinispan.protostream:protostream-aggregator:5.0.7.Final:ok=7:ko=16
+Starting project de.jflex:jflex-parent:1.9.1
+exit_code=0
+de.jflex:jflex-parent:1.9.1:ok=8:ko=0
+Starting project org.apache.aries.cdi:org.apache.aries.cdi:1.1.5
+exit_code=0
+org.apache.aries.cdi:org.apache.aries.cdi:1.1.5:ok=41:ko=9
+Starting project org.apache.aries.cdi:org.apache.aries.cdi:1.1.4
+exit_code=0
+org.apache.aries.cdi:org.apache.aries.cdi:1.1.4:ok=17:ko=33
+Starting project org.codehaus.plexus:plexus-resources:1.3.0
+exit_code=0
+org.codehaus.plexus:plexus-resources:1.3.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-digest:1.3
+exit_code=0
+org.codehaus.plexus:plexus-digest:1.3:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-compiler:2.11.1
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.11.1:ok=31:ko=0
+Starting project org.codehaus.plexus:plexus-compiler:2.14.2
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.14.2:ok=27:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.12.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.12.0:ok=31:ko=0
+Starting project org.codehaus.plexus:plexus-compiler:2.8.7
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.8.7:ok=21:ko=13
+Starting project org.codehaus.plexus:plexus-compiler:2.10.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.10.0:ok=31:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.8.6
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.8.6:ok=33:ko=0
+Starting project org.codehaus.plexus:plexus-compiler:2.14.1
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.14.1:ok=27:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.11.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.11.0:ok=30:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.15.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.15.0:ok=27:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.8.8
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.8.8:ok=21:ko=14
+Starting project org.codehaus.plexus:plexus-compiler:2.12.1
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.12.1:ok=30:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.9.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.9.0:ok=35:ko=0
+Starting project org.codehaus.plexus:plexus-compiler:2.14.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.14.0:ok=27:ko=1
+Starting project org.codehaus.plexus:plexus-compiler:2.13.0
+exit_code=0
+org.codehaus.plexus:plexus-compiler:2.13.0:ok=30:ko=1
+Starting project org.codehaus.plexus:plexus-interpolation:1.27
+exit_code=0
+org.codehaus.plexus:plexus-interpolation:1.27:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-xml:3.0.1
+exit_code=0
+org.codehaus.plexus:plexus-xml:3.0.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-xml:4.0.4
+exit_code=0
+org.codehaus.plexus:plexus-xml:4.0.4:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-xml:4.0.2
+Starting project org.codehaus.plexus:plexus-xml:3.0.0
+exit_code=0
+org.codehaus.plexus:plexus-xml:3.0.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-xml:4.0.0
+exit_code=0
+org.codehaus.plexus:plexus-xml:4.0.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-xml:4.0.1
+exit_code=0
+org.codehaus.plexus:plexus-xml:4.0.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-xml:4.0.3
+exit_code=0
+org.codehaus.plexus:plexus-xml:4.0.3:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-cipher:2.1.0
+exit_code=0
+org.codehaus.plexus:plexus-cipher:2.1.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-cipher:3.0.0
+exit_code=0
+org.codehaus.plexus:plexus-cipher:3.0.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-cipher:2.0
+exit_code=0
+org.codehaus.plexus:plexus-cipher:2.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-velocity:2.1.0
+exit_code=0
+org.codehaus.plexus:plexus-velocity:2.1.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-velocity:1.3
+exit_code=1
+Starting project org.codehaus.plexus:plexus-velocity:2.0
+exit_code=0
+org.codehaus.plexus:plexus-velocity:2.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-utils:3.5.0
+exit_code=0
+org.codehaus.plexus:plexus-utils:3.5.0:ok=3:ko=1
+Starting project org.codehaus.plexus:plexus-utils:3.5.1
+exit_code=0
+org.codehaus.plexus:plexus-utils:3.5.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-utils:3.4.1
+exit_code=0
+org.codehaus.plexus:plexus-utils:3.4.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-utils:3.4.0
+exit_code=0
+org.codehaus.plexus:plexus-utils:3.4.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-utils:3.4.2
+exit_code=0
+org.codehaus.plexus:plexus-utils:3.4.2:ok=3:ko=1
+Starting project org.codehaus.plexus:plexus-utils:4.0.0
+exit_code=0
+org.codehaus.plexus:plexus-utils:4.0.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-utils:4.0.1
+exit_code=0
+org.codehaus.plexus:plexus-utils:4.0.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-components:6.4
+exit_code=1
+Starting project org.codehaus.plexus:plexus-components:9.0
+exit_code=0
+org.codehaus.plexus:plexus-components:9.0:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus-components:6.1
+exit_code=1
+Starting project org.codehaus.plexus:plexus-components:6.6
+exit_code=1
+Starting project org.codehaus.plexus:plexus-components:6.5
+exit_code=1
+Starting project org.codehaus.plexus:plexus-components:6.3
+exit_code=1
+Starting project org.codehaus.plexus:plexus-components:14.2
+exit_code=0
+org.codehaus.plexus:plexus-components:14.2:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus-components:10.0
+exit_code=0
+org.codehaus.plexus:plexus-components:10.0:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus-components:14.1
+exit_code=0
+org.codehaus.plexus:plexus-components:14.1:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus-languages:1.1.1
+exit_code=0
+org.codehaus.plexus:plexus-languages:1.1.1:ok=5:ko=1
+Starting project org.codehaus.plexus:plexus-languages:1.2.0
+exit_code=0
+org.codehaus.plexus:plexus-languages:1.2.0:ok=6:ko=0
+Starting project org.codehaus.plexus:plexus-languages:1.1.2
+exit_code=0
+org.codehaus.plexus:plexus-languages:1.1.2:ok=6:ko=0
+Starting project org.codehaus.plexus:plexus-languages:1.1.0
+exit_code=0
+org.codehaus.plexus:plexus-languages:1.1.0:ok=5:ko=1
+Starting project org.codehaus.plexus:plexus-languages:1.0.7
+exit_code=0
+org.codehaus.plexus:plexus-languages:1.0.7:ok=5:ko=1
+Starting project org.codehaus.plexus:plexus-languages:1.0.5
+exit_code=1
+Starting project org.codehaus.plexus:plexus-languages:1.0.6
+exit_code=0
+org.codehaus.plexus:plexus-languages:1.0.6:ok=5:ko=1
+Starting project org.codehaus.plexus:plexus-archiver:4.9.1
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.9.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.2.3
+Starting project org.codehaus.plexus:plexus-archiver:4.8.0
+Starting project org.codehaus.plexus:plexus-archiver:4.4.0
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.4.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.6.3
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.6.3:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.9.2
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.9.2:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.6.2
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.6.2:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.7.0
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.7.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.10.0
+Starting project org.codehaus.plexus:plexus-archiver:4.7.1
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.7.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.3.0
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.3.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.6.1
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.6.1:ok=3:ko=1
+Starting project org.codehaus.plexus:plexus-archiver:4.9.0
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.9.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.5.0
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.5.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.2.7
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.2.7:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.2.6
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.2.6:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.2.4
+exit_code=1
+Starting project org.codehaus.plexus:plexus-archiver:4.6.0
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.6.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-archiver:4.2.2
+exit_code=1
+Starting project org.codehaus.plexus:plexus-archiver:4.2.5
+exit_code=0
+org.codehaus.plexus:plexus-archiver:4.2.5:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-io:3.5.0
+Starting project org.codehaus.plexus:plexus-io:3.5.1
+exit_code=0
+org.codehaus.plexus:plexus-io:3.5.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-io:3.4.1
+exit_code=0
+org.codehaus.plexus:plexus-io:3.4.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-io:3.4.0
+exit_code=0
+org.codehaus.plexus:plexus-io:3.4.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-io:3.3.1
+exit_code=0
+org.codehaus.plexus:plexus-io:3.3.1:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-io:3.4.2
+exit_code=0
+org.codehaus.plexus:plexus-io:3.4.2:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-io:3.3.0
+exit_code=0
+org.codehaus.plexus:plexus-io:3.3.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-interactivity:1.3
+exit_code=0
+org.codehaus.plexus:plexus-interactivity:1.3:ok=6:ko=0
+Starting project org.codehaus.plexus:plexus-interactivity:1.1
+exit_code=1
+Starting project org.codehaus.plexus:plexus-interactivity:1.2
+exit_code=0
+org.codehaus.plexus:plexus-interactivity:1.2:ok=6:ko=0
+Starting project org.codehaus.plexus:plexus-classworlds:2.8.0
+exit_code=0
+org.codehaus.plexus:plexus-classworlds:2.8.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-classworlds:2.7.0
+exit_code=0
+org.codehaus.plexus:plexus-classworlds:2.7.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-testing:1.2.0
+exit_code=0
+org.codehaus.plexus:plexus-testing:1.2.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-testing:1.4.0
+Starting project org.codehaus.plexus:plexus-testing:1.1.0
+exit_code=0
+org.codehaus.plexus:plexus-testing:1.1.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-testing:1.3.0
+exit_code=0
+org.codehaus.plexus:plexus-testing:1.3.0:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus-cli:1.7
+exit_code=0
+org.codehaus.plexus:plexus-cli:1.7:ok=4:ko=0
+Starting project org.codehaus.plexus:plexus:16
+exit_code=0
+org.codehaus.plexus:plexus:16:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:6.4
+exit_code=1
+Starting project org.codehaus.plexus:plexus:11
+exit_code=0
+org.codehaus.plexus:plexus:11:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:10
+exit_code=0
+org.codehaus.plexus:plexus:10:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:9
+exit_code=0
+org.codehaus.plexus:plexus:9:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:17
+exit_code=0
+org.codehaus.plexus:plexus:17:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:6.1
+exit_code=1
+Starting project org.codehaus.plexus:plexus:18
+exit_code=0
+org.codehaus.plexus:plexus:18:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:14
+exit_code=0
+org.codehaus.plexus:plexus:14:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:7
+exit_code=1
+Starting project org.codehaus.plexus:plexus:12
+exit_code=0
+org.codehaus.plexus:plexus:12:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:6.5
+exit_code=1
+Starting project org.codehaus.plexus:plexus:6.2
+exit_code=1
+Starting project org.codehaus.plexus:plexus:13
+exit_code=0
+org.codehaus.plexus:plexus:13:ok=3:ko=0
+Starting project org.codehaus.plexus:plexus:6.3
+exit_code=1
+Starting project org.codehaus.plexus:plexus:8
+exit_code=1
+Starting project org.codehaus.plexus:plexus:15
+exit_code=0
+org.codehaus.plexus:plexus:15:ok=3:ko=0
+Starting project com.github.veithen.phos:phos:0.4.0
+exit_code=0
+com.github.veithen.phos:phos:0.4.0:ok=5:ko=0
+Starting project org.webjars:jszip:3.10.1
+exit_code=0
+org.webjars:jszip:3.10.1:ok=2:ko=0
+Starting project org.webjars:highcharts:10.3.3
+exit_code=0
+org.webjars:highcharts:10.3.3:ok=2:ko=0
+Starting project org.webjars:highcharts:11.1.0
+exit_code=0
+org.webjars:highcharts:11.1.0:ok=2:ko=0
+Starting project org.webjars:highcharts:11.2.0
+exit_code=0
+org.webjars:highcharts:11.2.0:ok=2:ko=0
+Starting project org.webjars:webjars-locator-core:0.52
+exit_code=1
+Starting project org.webjars:webjars-locator:0.46
+exit_code=1
+Starting project org.webjars:swagger-ui:4.9.1
+exit_code=0
+org.webjars:swagger-ui:4.9.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.10.3
+exit_code=0
+org.webjars:swagger-ui:4.10.3:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.19.0
+exit_code=0
+org.webjars:swagger-ui:4.19.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.12.2
+exit_code=0
+org.webjars:swagger-ui:5.12.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.14.2
+exit_code=0
+org.webjars:swagger-ui:4.14.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.5.0
+exit_code=0
+org.webjars:swagger-ui:5.5.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.1.2
+exit_code=0
+org.webjars:swagger-ui:5.1.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.15.5
+exit_code=0
+org.webjars:swagger-ui:4.15.5:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.17.0
+exit_code=0
+org.webjars:swagger-ui:4.17.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.4.2
+exit_code=0
+org.webjars:swagger-ui:5.4.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.12.0
+exit_code=0
+org.webjars:swagger-ui:5.12.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.8.0
+exit_code=0
+org.webjars:swagger-ui:4.8.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.15.0
+exit_code=0
+org.webjars:swagger-ui:5.15.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.15.1
+exit_code=0
+org.webjars:swagger-ui:5.15.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.9.0
+exit_code=0
+org.webjars:swagger-ui:5.9.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.13.2
+exit_code=0
+org.webjars:swagger-ui:4.13.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.18.2
+exit_code=0
+org.webjars:swagger-ui:4.18.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.2.0
+exit_code=0
+org.webjars:swagger-ui:5.2.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.1.3
+exit_code=0
+org.webjars:swagger-ui:5.1.3:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.14.0
+Starting project org.webjars:swagger-ui:5.3.1
+exit_code=0
+org.webjars:swagger-ui:5.3.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.18.1
+exit_code=0
+org.webjars:swagger-ui:4.18.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.11.8
+exit_code=0
+org.webjars:swagger-ui:5.11.8:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.6.2
+exit_code=0
+org.webjars:swagger-ui:4.6.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.16.0-alpha.1
+exit_code=0
+org.webjars:swagger-ui:4.16.0-alpha.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.1.0
+exit_code=0
+org.webjars:swagger-ui:5.1.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.11.1
+exit_code=0
+org.webjars:swagger-ui:4.11.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.18.0
+exit_code=0
+org.webjars:swagger-ui:4.18.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.0.0
+exit_code=0
+org.webjars:swagger-ui:5.0.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.5.2
+exit_code=0
+org.webjars:swagger-ui:4.5.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.15.2
+Starting project org.webjars:swagger-ui:5.7.2
+exit_code=0
+org.webjars:swagger-ui:5.7.2:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.15.0
+exit_code=0
+org.webjars:swagger-ui:4.15.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.13.0
+exit_code=0
+org.webjars:swagger-ui:5.13.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.11.9
+exit_code=0
+org.webjars:swagger-ui:5.11.9:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.19.1
+exit_code=0
+org.webjars:swagger-ui:4.19.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.14.3
+exit_code=0
+org.webjars:swagger-ui:4.14.3:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.17.1
+exit_code=0
+org.webjars:swagger-ui:4.17.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.14.1
+exit_code=0
+org.webjars:swagger-ui:4.14.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.8.1
+exit_code=0
+org.webjars:swagger-ui:4.8.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:4.14.0
+exit_code=0
+org.webjars:swagger-ui:4.14.0:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.11.10
+exit_code=0
+org.webjars:swagger-ui:5.11.10:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.6.1
+exit_code=0
+org.webjars:swagger-ui:5.6.1:ok=2:ko=0
+Starting project org.webjars:swagger-ui:5.10.3
+exit_code=0
+org.webjars:swagger-ui:5.10.3:ok=2:ko=0
+Starting project org.webjars:openlayers:8.2.0
+exit_code=0
+org.webjars:openlayers:8.2.0:ok=2:ko=0
+Starting project org.webjars:redoc:2.1.5
+exit_code=0
+org.webjars:redoc:2.1.5:ok=2:ko=0
+Starting project org.webjars:redoc:2.0.0
+exit_code=0
+org.webjars:redoc:2.0.0:ok=2:ko=0
+Starting project org.webjars:redoc:2.1.1
+exit_code=0
+org.webjars:redoc:2.1.1:ok=2:ko=0
+Starting project org.webjars:angularjs:1.8.3
+exit_code=0
+org.webjars:angularjs:1.8.3:ok=2:ko=0
+Starting project org.webjars:uswds:3.4.1
+exit_code=0
+org.webjars:uswds:3.4.1:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.2.2
+exit_code=0
+org.webjars:bootstrap:5.2.2:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.2.0
+exit_code=0
+org.webjars:bootstrap:5.2.0:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.2.3
+exit_code=0
+org.webjars:bootstrap:5.2.3:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.3.1
+exit_code=0
+org.webjars:bootstrap:5.3.1:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.3.3
+exit_code=0
+org.webjars:bootstrap:5.3.3:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.2.1
+exit_code=0
+org.webjars:bootstrap:5.2.1:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.3.2
+exit_code=0
+org.webjars:bootstrap:5.3.2:ok=2:ko=0
+Starting project org.webjars:bootstrap:5.3.0
+exit_code=0
+org.webjars:bootstrap:5.3.0:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.22
+exit_code=0
+org.webjars:flexmonster:2.9.22:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.34
+exit_code=0
+org.webjars:flexmonster:2.9.34:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.27
+exit_code=0
+org.webjars:flexmonster:2.9.27:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.84
+exit_code=0
+org.webjars:flexmonster:2.9.84:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.83
+exit_code=0
+org.webjars:flexmonster:2.9.83:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.70
+exit_code=0
+org.webjars:flexmonster:2.9.70:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.82
+exit_code=0
+org.webjars:flexmonster:2.9.82:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.71
+exit_code=0
+org.webjars:flexmonster:2.9.71:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.61
+exit_code=0
+org.webjars:flexmonster:2.9.61:ok=0:ko=2
+Starting project org.webjars:flexmonster:2.9.64
+exit_code=0
+org.webjars:flexmonster:2.9.64:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.86
+exit_code=0
+org.webjars:flexmonster:2.9.86:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.36
+exit_code=0
+org.webjars:flexmonster:2.9.36:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.56
+exit_code=0
+org.webjars:flexmonster:2.9.56:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.63
+exit_code=0
+org.webjars:flexmonster:2.9.63:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.33
+exit_code=0
+org.webjars:flexmonster:2.9.33:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.45
+exit_code=0
+org.webjars:flexmonster:2.9.45:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.72
+exit_code=0
+org.webjars:flexmonster:2.9.72:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.69
+exit_code=0
+org.webjars:flexmonster:2.9.69:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.49
+exit_code=0
+org.webjars:flexmonster:2.9.49:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.60
+exit_code=0
+org.webjars:flexmonster:2.9.60:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.55
+exit_code=0
+org.webjars:flexmonster:2.9.55:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.31
+exit_code=0
+org.webjars:flexmonster:2.9.31:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.32
+exit_code=0
+org.webjars:flexmonster:2.9.32:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.77
+exit_code=0
+org.webjars:flexmonster:2.9.77:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.85
+exit_code=0
+org.webjars:flexmonster:2.9.85:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.87
+exit_code=0
+org.webjars:flexmonster:2.9.87:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.62
+exit_code=0
+org.webjars:flexmonster:2.9.62:ok=1:ko=1
+Starting project org.webjars:flexmonster:2.9.68
+exit_code=0
+org.webjars:flexmonster:2.9.68:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.43
+exit_code=0
+org.webjars:flexmonster:2.9.43:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.44
+exit_code=0
+org.webjars:flexmonster:2.9.44:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.24
+exit_code=0
+org.webjars:flexmonster:2.9.24:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.38
+exit_code=0
+org.webjars:flexmonster:2.9.38:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.23
+exit_code=0
+org.webjars:flexmonster:2.9.23:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.75
+exit_code=0
+org.webjars:flexmonster:2.9.75:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.78
+exit_code=0
+org.webjars:flexmonster:2.9.78:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.58
+exit_code=0
+org.webjars:flexmonster:2.9.58:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.59
+exit_code=0
+org.webjars:flexmonster:2.9.59:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.29
+exit_code=0
+org.webjars:flexmonster:2.9.29:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.74
+exit_code=0
+org.webjars:flexmonster:2.9.74:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.53
+exit_code=0
+org.webjars:flexmonster:2.9.53:ok=1:ko=1
+Starting project org.webjars:flexmonster:2.9.30
+exit_code=0
+org.webjars:flexmonster:2.9.30:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.28
+exit_code=0
+org.webjars:flexmonster:2.9.28:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.80
+exit_code=0
+org.webjars:flexmonster:2.9.80:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.21
+exit_code=0
+org.webjars:flexmonster:2.9.21:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.51
+exit_code=0
+org.webjars:flexmonster:2.9.51:ok=1:ko=1
+Starting project org.webjars:flexmonster:2.9.41
+exit_code=0
+org.webjars:flexmonster:2.9.41:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.47
+exit_code=0
+org.webjars:flexmonster:2.9.47:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.57
+exit_code=0
+org.webjars:flexmonster:2.9.57:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.50
+exit_code=0
+org.webjars:flexmonster:2.9.50:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.52
+exit_code=0
+org.webjars:flexmonster:2.9.52:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.79
+exit_code=0
+org.webjars:flexmonster:2.9.79:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.66
+exit_code=0
+org.webjars:flexmonster:2.9.66:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.81
+exit_code=0
+org.webjars:flexmonster:2.9.81:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.46
+exit_code=0
+org.webjars:flexmonster:2.9.46:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.48
+exit_code=0
+org.webjars:flexmonster:2.9.48:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.65
+exit_code=0
+org.webjars:flexmonster:2.9.65:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.35
+exit_code=0
+org.webjars:flexmonster:2.9.35:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.76
+exit_code=0
+org.webjars:flexmonster:2.9.76:ok=1:ko=1
+Starting project org.webjars:flexmonster:2.9.42
+exit_code=0
+org.webjars:flexmonster:2.9.42:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.54
+exit_code=0
+org.webjars:flexmonster:2.9.54:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.40
+exit_code=0
+org.webjars:flexmonster:2.9.40:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.67
+exit_code=0
+org.webjars:flexmonster:2.9.67:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.37
+exit_code=0
+org.webjars:flexmonster:2.9.37:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.20
+exit_code=0
+org.webjars:flexmonster:2.9.20:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.39
+exit_code=0
+org.webjars:flexmonster:2.9.39:ok=2:ko=0
+Starting project org.webjars:flexmonster:2.9.26
+exit_code=0
+org.webjars:flexmonster:2.9.26:ok=1:ko=1
+Starting project org.webjars:flexmonster:2.9.25
+exit_code=0
+org.webjars:flexmonster:2.9.25:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.2.1
+exit_code=0
+org.webjars:font-awesome:6.2.1:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.2.0
+exit_code=0
+org.webjars:font-awesome:6.2.0:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.4.2
+exit_code=0
+org.webjars:font-awesome:6.4.2:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.5.2
+exit_code=0
+org.webjars:font-awesome:6.5.2:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.4.0
+exit_code=0
+org.webjars:font-awesome:6.4.0:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.5.1
+exit_code=0
+org.webjars:font-awesome:6.5.1:ok=2:ko=0
+Starting project org.webjars:font-awesome:6.3.0
+exit_code=0
+org.webjars:font-awesome:6.3.0:ok=2:ko=0
+Starting project org.apache.mina:mina-parent:2.1.8
+exit_code=0
+org.apache.mina:mina-parent:2.1.8:ok=36:ko=2
+Starting project org.apache.mina:mina-parent:2.1.6
+exit_code=0
+org.apache.mina:mina-parent:2.1.6:ok=27:ko=11
+Starting project org.apache.mina:mina-parent:2.1.7
+exit_code=0
+org.apache.mina:mina-parent:2.1.7:ok=27:ko=11
+Starting project commons-cli:commons-cli:1.8.0
+exit_code=0
+commons-cli:commons-cli:1.8.0:ok=6:ko=1
+Starting project commons-cli:commons-cli:1.9.0
+exit_code=0
+commons-cli:commons-cli:1.9.0:ok=6:ko=1
+Starting project org.apache.paimon:paimon-parent:0.8.1
+exit_code=0
+org.apache.paimon:paimon-parent:0.8.1:ok=43:ko=83
+Starting project org.apache.paimon:paimon-parent:0.8.2
+exit_code=0
+org.apache.paimon:paimon-parent:0.8.2:ok=43:ko=83
+Starting project org.apache.paimon:paimon-parent:0.6.0-incubating
+exit_code=0
+org.apache.paimon:paimon-parent:0.6.0-incubating:ok=23:ko=96
+Starting project org.apache.paimon:paimon-parent:0.9.0
+exit_code=0
+org.apache.paimon:paimon-parent:0.9.0:ok=81:ko=51
+Starting project io.micronaut.build:micronaut-maven-plugin:3.5.2
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.5.2:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.7
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.7:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.5.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.5.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.2.4
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.2.4:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.5.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.5.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.2.2
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.2.2:ok=3:ko=0
 Starting project io.micronaut.build:micronaut-maven-plugin:1.0.0
 exit_code=0
 io.micronaut.build:micronaut-maven-plugin:1.0.0:ok=3:ko=0
-Starting project io.dropwizard:dropwizard-project:2.0.14
+Starting project io.micronaut.build:micronaut-maven-plugin:2.0.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:2.0.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.2
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.2:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.0.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.0.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.4.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.4.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.3
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.3:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.0.M1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.0.M1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.5
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.5:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.8
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.8:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.2.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.2.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.4.0-RC3
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.4.0-RC3:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.1.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.1.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.3.1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.3.1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.0.2
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.0.2:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:2.0.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:2.0.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.4
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.4:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.5.4
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.5.4:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.2.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.2.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.5.3
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.5.3:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.0.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.0.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.3.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.3.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.2.3
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.2.3:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.1.0
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.1.0:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.4.0-RC1
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.4.0-RC1:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.0.0.RC4
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.0.0.RC4:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:3.4.0-RC2
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:3.4.0-RC2:ok=3:ko=0
+Starting project io.micronaut.build:micronaut-maven-plugin:1.1.6
+exit_code=0
+io.micronaut.build:micronaut-maven-plugin:1.1.6:ok=3:ko=0
+Starting project org.apache.dubbo:dubbo:2.7.7
 exit_code=1
-Starting project biz.aQute.bnd:bnd-plugin-parent:7.0.0
-exit_code=0
-biz.aQute.bnd:bnd-plugin-parent:7.0.0:ok=28:ko=0
-Starting project io.github.hboutemy:sigstore-maven-plugin:1.0.0-beta-3
-exit_code=0
-io.github.hboutemy:sigstore-maven-plugin:1.0.0-beta-3:ok=3:ko=0
-Starting project io.takari.maven:takari-smart-builder:1.0.0
-exit_code=0
-io.takari.maven:takari-smart-builder:1.0.0:ok=2:ko=1
-Starting project io.dropwizard.metrics:metrics-parent:4.1.33
-exit_code=0
-io.dropwizard.metrics:metrics-parent:4.1.33:ok=67:ko=1
-Starting project io.wcm.tooling.commons:io.wcm.tooling.commons.crx-packmgr-helper:2.1.0
-exit_code=0
-io.wcm.tooling.commons:io.wcm.tooling.commons.crx-packmgr-helper:2.1.0:ok=3:ko=0
-Starting project io.wcm.tooling.commons:io.wcm.tooling.commons.content-package-builder:1.6.0
-exit_code=0
-io.wcm.tooling.commons:io.wcm.tooling.commons.content-package-builder:1.6.0:ok=2:ko=1
-Starting project io.dropwizard.metrics5:metrics-parent:5.0.0-rc9
-exit_code=0
-io.dropwizard.metrics5:metrics-parent:5.0.0-rc9:ok=93:ko=2
-Starting project io.github.shanqiang-sq:jstream:2.0.4
+Starting project org.apache.dubbo:dubbo:2.7.9
 exit_code=1
-io.github.shanqiang-sq:jstream:2.0.4:ok=3:ko=0
-Starting project io.wcm:io.wcm.wcm.commons:1.7.0
+Starting project org.apache.dubbo:dubbo:3.0.1
 exit_code=0
-io.wcm:io.wcm.wcm.commons:1.7.0:ok=3:ko=0
-Starting project io.wcm:io.wcm.handler.media:1.9.4
-exit_code=0
-io.wcm:io.wcm.handler.media:1.9.4:ok=3:ko=0
-Starting project io.wcm:io.wcm.handler.link:1.6.0
-exit_code=0
-io.wcm:io.wcm.handler.link:1.6.0:ok=2:ko=1
-Starting project io.wcm:io.wcm.wcm.ui.clientlibs:1.1.0
-exit_code=0
-io.wcm:io.wcm.wcm.ui.clientlibs:1.1.0:ok=3:ko=0
-Starting project io.wcm:io.wcm.caconfig.editor.parent:1.8.0
-exit_code=0
-io.wcm:io.wcm.caconfig.editor.parent:1.8.0:ok=3:ko=3
-Starting project io.wcm:io.wcm.wcm.ui.granite:1.7.0
+org.apache.dubbo:dubbo:3.0.1:ok=161:ko=8
+Starting project org.apache.dubbo:dubbo:3.1.2
 exit_code=1
-Starting project io.wcm:io.wcm.parent_toplevel:1.7.0
+org.apache.dubbo:dubbo:3.1.2:ok=3:ko=0
+Starting project org.apache.dubbo:dubbo:3.0.2.1
 exit_code=0
-io.wcm:io.wcm.parent_toplevel:1.7.0:ok=2:ko=0
-Starting project io.wcm:io.wcm.wcm.parsys:1.5.0
-exit_code=0
-io.wcm:io.wcm.wcm.parsys:1.5.0:ok=3:ko=0
-Starting project io.wcm:io.wcm.handler.richtext:1.4.0
-exit_code=0
-io.wcm:io.wcm.handler.richtext:1.4.0:ok=1:ko=2
-Starting project io.wcm:io.wcm.caconfig.editor.root:1.9.0
-exit_code=0
-io.wcm:io.wcm.caconfig.editor.root:1.9.0:ok=3:ko=5
-Starting project io.github.git-commit-id:git-commit-id-maven-plugin:8.0.0
+org.apache.dubbo:dubbo:3.0.2.1:ok=166:ko=9
+Starting project org.apache.dubbo:dubbo:2.7.8
 exit_code=1
-Starting project io.github.derkrischan:jpdftest:0.11.0
+Starting project org.apache.dubbo:dubbo:3.0.0
 exit_code=0
-io.github.derkrischan:jpdftest:0.11.0:ok=3:ko=0
-Starting project io.takari:io.takari.incrementalbuild:1.0.3
+org.apache.dubbo:dubbo:3.0.0:ok=161:ko=8
+Starting project org.apache.dubbo:dubbo:3.1.0
+exit_code=1
+org.apache.dubbo:dubbo:3.1.0:ok=3:ko=0
+Starting project com.taobao.arthas:arthas-all:3.3.7
 exit_code=0
-io.takari:io.takari.incrementalbuild:1.0.3:ok=16:ko=1
-Starting project io.takari:takari-archiver:1.0.2
+com.taobao.arthas:arthas-all:3.3.7:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.5.0
+exit_code=1
+Starting project com.taobao.arthas:arthas-all:3.5.1
+exit_code=1
+Starting project com.taobao.arthas:arthas-all:3.4.1
 exit_code=0
-io.takari:takari-archiver:1.0.2:ok=3:ko=0
-Starting project io.trino:trino-root:448
-Starting project io.github.albertus82:unexepack:0.2.1
+com.taobao.arthas:arthas-all:3.4.1:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.4.0
 exit_code=0
-io.github.albertus82:unexepack:0.2.1:ok=3:ko=2
-Starting project io.github.albertus82:jface-utils:19.0.0
+com.taobao.arthas:arthas-all:3.4.0:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.4.5
+exit_code=1
+Starting project com.taobao.arthas:arthas-all:3.3.9
 exit_code=0
-io.github.albertus82:jface-utils:19.0.0:ok=3:ko=0
-Starting project io.takari.maven.plugins:takari-lifecycle-plugin:2.1.5
+com.taobao.arthas:arthas-all:3.3.9:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.3.8
 exit_code=0
-io.takari.maven.plugins:takari-lifecycle-plugin:2.1.5:ok=2:ko=2
-Starting project io.takari.maven.plugins:takari-plugin-testing-project:3.0.5
+com.taobao.arthas:arthas-all:3.3.8:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.4.3
 exit_code=0
-io.takari.maven.plugins:takari-plugin-testing-project:3.0.5:ok=5:ko=0
-Starting project io.wcm.maven.plugins:nodejs-maven-plugin:3.0.2
-Starting project io.wcm.maven.plugins:cq-maven-plugin:1.2.0
+com.taobao.arthas:arthas-all:3.4.3:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.4.2
 exit_code=0
-io.wcm.maven.plugins:cq-maven-plugin:1.2.0:ok=3:ko=0
-Starting project io.github.chains-project:maven-lockfile:3.4.0
+com.taobao.arthas:arthas-all:3.4.2:ok=31:ko=21
+Starting project com.taobao.arthas:arthas-all:3.6.0
+exit_code=1
+Starting project com.taobao.arthas:arthas-all:3.4.4
+exit_code=1
+Starting project com.taobao.arthas:arthas-all:3.4.6
+exit_code=1
+Starting project com.taobao.arthas:arthas-all:3.4.8
+exit_code=1
+Starting project dev.langchain4j:langchain4j:0.27.1
 exit_code=0
-io.github.chains-project:maven-lockfile:3.4.0:ok=7:ko=1
-Starting project io.telicent.smart-caches.graph:scg-base:0.82.3
+dev.langchain4j:langchain4j:0.27.1:ok=80:ko=40
+Starting project dev.langchain4j:langchain4j:0.26.0
 exit_code=0
-io.telicent.smart-caches.graph:scg-base:0.82.3:ok=19:ko=0
-Starting project io.cucumber:messages:23.0.0
+dev.langchain4j:langchain4j:0.26.0:ok=32:ko=70
+Starting project dev.langchain4j:langchain4j:0.28.0
 exit_code=0
-io.cucumber:messages:23.0.0:ok=3:ko=0
-Starting project io.cucumber:html-formatter:20.2.0
+dev.langchain4j:langchain4j:0.28.0:ok=86:ko=43
+Starting project dev.langchain4j:langchain4j:0.35.0
 exit_code=0
-io.cucumber:html-formatter:20.2.0:ok=2:ko=1
-Starting project io.cucumber:junit-xml-formatter:0.2.0
+dev.langchain4j:langchain4j:0.35.0:ok=199:ko=0
+Starting project dev.langchain4j:langchain4j:0.27.0
 exit_code=0
-io.cucumber:junit-xml-formatter:0.2.0:ok=3:ko=0
-Starting project io.micronaut.maven:micronaut-maven-plugin:4.0.0-M5
+dev.langchain4j:langchain4j:0.27.0:ok=80:ko=40
+Starting project org.apache.camel.k:camel-k-runtime-project:1.12.0
 exit_code=0
-io.micronaut.maven:micronaut-maven-plugin:4.0.0-M5:ok=13:ko=0
+org.apache.camel.k:camel-k-runtime-project:1.12.0:ok=192:ko=29
+Starting project org.apache.camel.k:camel-k-runtime-project:1.13.0
+exit_code=0
+org.apache.camel.k:camel-k-runtime-project:1.13.0:ok=176:ko=23
+Starting project org.apache.camel.k:camel-k-runtime-project:1.11.0
+exit_code=0
+org.apache.camel.k:camel-k-runtime-project:1.11.0:ok=197:ko=31
+Starting project org.apache.camel.k:camel-k-runtime-project:1.9.1
+exit_code=0
+org.apache.camel.k:camel-k-runtime-project:1.9.1:ok=198:ko=30
+Starting project nl.hsac:hsac-fitnesse-pdf:0.1.3
+exit_code=0
+nl.hsac:hsac-fitnesse-pdf:0.1.3:ok=3:ko=0
+Starting project nl.hsac:hsac-fitnesse-pdf:0.1.4
+exit_code=0
+nl.hsac:hsac-fitnesse-pdf:0.1.4:ok=0:ko=3
+Starting project nl.hsac:hsac-fitnesse-pdf:0.1.2
+exit_code=0
+nl.hsac:hsac-fitnesse-pdf:0.1.2:ok=1:ko=2
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.18
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.18:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.23.1
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.15
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.15:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.19.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.15.1
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:4.15.1:ok=1:ko=3
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.14
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.14:ok=5:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.5
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.5:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.1.2
+exit_code=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.6
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.6:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.22.1
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.8
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.8:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.1.1
+exit_code=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.37
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.37:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.40
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.40:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.11
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.11:ok=5:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.20.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.44
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.44:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.17.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.7
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.7:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.2
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.2:ok=0:ko=4
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.7
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.7:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.43
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.26.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.15.3
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:4.15.3:ok=1:ko=3
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.41
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.41:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.28.1
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.16
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.16:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.14
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.14:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.25.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.30
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.30:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.23
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.23:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.11
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.11:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.27.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.13.0
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:4.13.0:ok=1:ko=3
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.0
+exit_code=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.3
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.3:ok=0:ko=4
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.23.2
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.31-beta
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.31
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.31:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.3.1
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.3.1:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.32
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.32:ok=3:ko=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.4
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.4:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.16.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.28.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.19
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.30.0
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:4.30.0:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.1.0
+exit_code=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.24.1
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.9
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.2.9:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:4.18.0
+exit_code=1
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.0.0
+exit_code=0
+nl.hsac:hsac-fitnesse-fixtures:5.0.0:ok=4:ko=0
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.10
+exit_code=130
+Starting project nl.hsac:hsac-fitnesse-fixtures:5.2.36
